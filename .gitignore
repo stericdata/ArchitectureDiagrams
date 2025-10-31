@@ -1,3 +1,6 @@
 # Draw.io backup files
 *.drawio.bkp
 .$*.drawio.bkp
+
+# macOS system files
+.DS_Store
